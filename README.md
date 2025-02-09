@@ -49,13 +49,13 @@ This project currently uses simulated data generated through a Python program as
 
 1. Start the backend server:
 ```bash
-cd project/patient-monitoring/src
+cd patient-monitoring/src
 npm run dev
 ```
 
 2. Start the frontend application:
 ```bash
-cd project/patient-monitoring/src/client
+cd patient-monitoring/src/client
 npm start
 ```
 
